@@ -5,7 +5,7 @@ CPE 一星題目練習 ～
 |:----------------:|:------------------------------:|:----:|
 |               1. | [Vito's family](https://github.com/ChihuahuaMH/CPE/blob/main/Vito's%20Family.cpp)                  |   v  |
 |               2. | [Hashmat the brave warrior](https://github.com/ChihuahuaMH/CPE/blob/main/Hashmat%20the%20Brave%20Warrior.cpp)      |   v  |
-|               3. | Primary Arithmetic             |      |
+|               3. | [Primary Arithmetic](https://github.com/ChihuahuaMH/CPE/blob/main/Primary%20Arithmetic.cpp)             |   v   |
 |               4. | [The 3n + 1 problem](https://github.com/ChihuahuaMH/CPE/blob/main/The%203n%20%2B%201%20problem.cpp)             |   v  |
 |               5. | [You can say 11](https://github.com/ChihuahuaMH/CPE/blob/main/You%20can%20say%2011.cpp)                 |   v  |
 |               6. | [Bangla Numbers](https://github.com/ChihuahuaMH/CPE/blob/main/Bangla%20Numbers.cpp)                 |   v  |
