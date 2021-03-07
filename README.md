@@ -11,8 +11,8 @@ CPE 一星題目練習 ～
 |               6. | [Bangla Numbers](https://github.com/ChihuahuaMH/CPE/blob/main/Bangla%20Numbers.cpp)                 |   v  |
 |               7. | [List of Conquests](https://github.com/ChihuahuaMH/CPE/blob/main/List%20of%20Conquests.cpp)              |   v  |
 |    字元與字串    |                                |      |
-|               8. | What's Cryptanalysis?          |      |
-|               9. | Decode the Mad man             |      |
+|               8. | [What's Cryptanalysis?](https://github.com/ChihuahuaMH/CPE/blob/main/What's%20Cryptanalysis.cpp)          |   v   |
+|               9. | [Decode the Mad man](https://github.com/ChihuahuaMH/CPE/blob/main/Decode%20the%20Mad%20man.cpp)             |   v   |
 |              10. | Problem J: Summing Digits      |      |
 |              11. | Common Permutation             |      |
 |              12. | Rotating Sentences             |      |
