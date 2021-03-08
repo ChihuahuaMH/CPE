@@ -13,10 +13,10 @@ CPE 一星題目練習 ～
 |    字元與字串    |                                |      |
 |               8. | [What's Cryptanalysis?](https://github.com/ChihuahuaMH/CPE/blob/main/What's%20Cryptanalysis.cpp)          |   v   |
 |               9. | [Decode the Mad man](https://github.com/ChihuahuaMH/CPE/blob/main/Decode%20the%20Mad%20man.cpp)             |   v   |
-|              10. | Problem J: Summing Digits      |      |
-|              11. | Common Permutation             |      |
-|              12. | Rotating Sentences             |      |
-|              13. | TeX Quotes                     |      |
+|              10. | [Problem J: Summing Digits](https://github.com/ChihuahuaMH/CPE/blob/main/Summing%20Digits.cpp)      |   v   |
+|              11. | [Common Permutation](https://github.com/ChihuahuaMH/CPE/blob/main/Common%20Permutation.cpp)             |   v   |
+|              12. | [Rotating Sentences](https://github.com/ChihuahuaMH/CPE/blob/main/Rotating%20Sentences.cpp)             |   v   |
+|              13. | [TeX Quotes](https://github.com/ChihuahuaMH/CPE/blob/main/TEX%20Quotes.cpp)                     |   v   |
 |     數學計算     |                                |      |
 |              14. | A - Doom's Day Algorithm       |      |
 |              15. | Jolly Jumpers                  |      |
