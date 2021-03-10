@@ -18,10 +18,10 @@ CPE 一星題目練習 ～
 |              12. | [Rotating Sentences](https://github.com/ChihuahuaMH/CPE/blob/main/Rotating%20Sentences.cpp)             |   v   |
 |              13. | [TeX Quotes](https://github.com/ChihuahuaMH/CPE/blob/main/TEX%20Quotes.cpp)                     |   v   |
 |     數學計算     |                                |      |
-|              14. | A - Doom's Day Algorithm       |      |
-|              15. | Jolly Jumpers                  |      |
-|              16. | What is the Probability!!      |      |
-|              17. | The Hotel with Infinite Rooms  |      |
+|              14. | [A - Doom's Day Algorithm](https://github.com/ChihuahuaMH/CPE/blob/main/Doom's%20Day%20Algorithm.cpp)       |   v   |
+|              15. | [Jolly Jumpers](https://github.com/ChihuahuaMH/CPE/blob/main/Jolly%20Jumpers.cpp)                  |   v   |
+|              16. | [What is the Probability!!](https://github.com/ChihuahuaMH/CPE/blob/main/What%20is%20the%20Probability.cpp)      |   v   |
+|              17. | [The Hotel with Infinite Rooms](https://github.com/ChihuahuaMH/CPE/blob/main/The%20Hotel%20with%20Infinite%20Rooms.cpp)  |   v   |
 |              18. | 498’                           |      |
 |              19. | [Odd Sum](https://github.com/ChihuahuaMH/CPE/blob/main/Odd%20Sum.cpp)                        |   v  |
 |              20. | Beat the Spread!               |      |
