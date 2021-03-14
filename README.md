@@ -24,8 +24,8 @@ CPE 一星題目練習 ～
 |              17. | [The Hotel with Infinite Rooms](https://github.com/ChihuahuaMH/CPE/blob/main/The%20Hotel%20with%20Infinite%20Rooms.cpp)  |   v   |
 |              18. | 498’                           |      |
 |              19. | [Odd Sum](https://github.com/ChihuahuaMH/CPE/blob/main/Odd%20Sum.cpp)                        |   v  |
-|              20. | Beat the Spread!               |      |
-|              21. | Symmetric Matrix               |      |
+|              20. | [Beat the Spread!](https://github.com/ChihuahuaMH/CPE/blob/main/Beat%20the%20Spread.cpp)               |   v   |
+|              21. | [Symmetric Matrix](https://github.com/ChihuahuaMH/CPE/blob/main/Symmetric%20Matrix.cpp)               |   v   |
 |              22. | Square Numbers                 |      |
 |              23. | B2-Sequence                    |      |
 |              24. | Back to High School Physics    |      |
