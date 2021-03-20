@@ -26,9 +26,9 @@ CPE 一星題目練習 ～
 |              19. | [Odd Sum](https://github.com/ChihuahuaMH/CPE/blob/main/Odd%20Sum.cpp)                        |   v  |
 |              20. | [Beat the Spread!](https://github.com/ChihuahuaMH/CPE/blob/main/Beat%20the%20Spread.cpp)               |   v   |
 |              21. | [Symmetric Matrix](https://github.com/ChihuahuaMH/CPE/blob/main/Symmetric%20Matrix.cpp)               |   v   |
-|              22. | Square Numbers                 |      |
-|              23. | B2-Sequence                    |      |
-|              24. | Back to High School Physics    |      |
+|              22. | [Square Numbers](https://github.com/ChihuahuaMH/CPE/blob/main/Square%20Numbers.cpp)                 |   v   |
+|              23. | [B2-Sequence](https://github.com/ChihuahuaMH/CPE/blob/main/B2-Sequence.cpp)                    |   v   |
+|              24. | [Back to High School Physics](https://github.com/ChihuahuaMH/CPE/blob/main/Back%20to%20High%20School%20Physics.cpp)    |   v   |
 |    進位制轉換    |                                |      |
 |              25. | An Easy Problem!               |      |
 |              26. | Fibonaccimal Base              |      |
